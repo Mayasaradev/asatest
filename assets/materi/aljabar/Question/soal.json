@@ -1,0 +1,1404 @@
+{
+  "soal": [
+  {
+    "no": 1,
+    "question": {
+      "text": "Berapa banyak Sylow 5-subgrup yang dimiliki oleh grup sederhana berorde 60 (seperti $A_5$)?",
+      "type": "multiple choice",
+      "choice_a": "1",
+      "choice_b": "3",
+      "choice_c": "6",
+      "choice_d": "10",
+      "choice_e": "12"
+    },
+    "answer": "C",
+    "bobot": 0.85
+  },
+  {
+    "no": 2,
+    "question": {
+      "text": "Misalkan $G$ grup berorde $p^2$ dengan $p$ prima. Pernyataan yang benar adalah...",
+      "type": "multiple choice",
+      "choice_a": "G siklik dengan $p^2$ elemen",
+      "choice_b": "G abelian, isomorfik ke $\\mathbb{Z}_{p^2}$ atau $\\mathbb{Z}_p \\times \\mathbb{Z}_p$",
+      "choice_c": "G non-abelian",
+      "choice_d": "Center dari G trivial",
+      "choice_e": "G memiliki tepat 2 Sylow p-subgrup"
+    },
+    "answer": "B",
+    "bobot": 0.8
+  },
+  {
+    "no": 3,
+    "question": {
+      "text": "Setiap grup berorde 15 adalah...",
+      "type": "multiple choice",
+      "choice_a": "Siklik",
+      "choice_b": "Non-siklik abelian",
+      "choice_c": "Isomorfik dengan $D_{15}$",
+      "choice_d": "Grup dengan center trivial",
+      "choice_e": "Grup sederhana"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 4,
+    "question": {
+      "text": "Jika $G/Z(G)$ siklik, maka...",
+      "type": "multiple choice",
+      "choice_a": "G abelian",
+      "choice_b": "G siklik",
+      "choice_c": "$Z(G) = G$",
+      "choice_d": "$G/Z(G)$ trivial",
+      "choice_e": "G tidak dapat berorde hingga"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 5,
+    "question": {
+      "text": "Berapa orde dari $\\text{Aut}(\\mathbb{Z}_{12})$?",
+      "type": "multiple choice",
+      "choice_a": "2",
+      "choice_b": "4",
+      "choice_c": "6",
+      "choice_d": "8",
+      "choice_e": "12"
+    },
+    "answer": "B",
+    "bobot": 0.8
+  },
+  {
+    "no": 6,
+    "question": {
+      "text": "Grup automorfisma dalam $\\text{Inn}(G)$ isomorfik dengan...",
+      "type": "multiple choice",
+      "choice_a": "$G$",
+      "choice_b": "$G/Z(G)$",
+      "choice_c": "$\\text{Aut}(G)$",
+      "choice_d": "$\\text{Out}(G)$",
+      "choice_e": "$G'$ (subgrup komutator)"
+    },
+    "answer": "B",
+    "bobot": 0.8
+  },
+  {
+    "no": 7,
+    "question": {
+      "text": "Deret turunan dari $S_4$ memiliki panjang (derived length)...",
+      "type": "multiple choice",
+      "choice_a": "1",
+      "choice_b": "2",
+      "choice_c": "3",
+      "choice_d": "4",
+      "choice_e": "S_4 tidak solvable"
+    },
+    "answer": "C",
+    "bobot": 0.85
+  },
+  {
+    "no": 8,
+    "question": {
+      "text": "Grup non-abelian sederhana terkecil (berdasarkan orde) adalah...",
+      "type": "multiple choice",
+      "choice_a": "$\\mathbb{Z}_2$",
+      "choice_b": "$A_4$",
+      "choice_c": "$A_5$",
+      "choice_d": "$S_3$",
+      "choice_e": "$S_4$"
+    },
+    "answer": "C",
+    "bobot": 0.8
+  },
+  {
+    "no": 9,
+    "question": {
+      "text": "Dengan menggunakan Lemma Burnside, berapa banyak cara mewarnai 6 sisi kubus dengan 2 warna jika dua pewarnaan dianggap sama bila berbeda oleh rotasi kubus?",
+      "type": "multiple choice",
+      "choice_a": "10",
+      "choice_b": "12",
+      "choice_c": "15",
+      "choice_d": "8",
+      "choice_e": "20"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 10,
+    "question": {
+      "text": "Untuk grup berhingga $G$, jumlah kelas konjugasi dari $G$ sama dengan...",
+      "type": "multiple choice",
+      "choice_a": "$|G|$",
+      "choice_b": "Jumlah representasi tak tereduksi dari $G$ atas $\\mathbb{C}$",
+      "choice_c": "$|Z(G)|$",
+      "choice_d": "$|G'|$",
+      "choice_e": "$|\\text{Inn}(G)|$"
+    },
+    "answer": "B",
+    "bobot": 0.85
+  },
+  {
+    "no": 11,
+    "question": {
+      "text": "Manakah ring berikut yang merupakan UFD tetapi bukan PID?",
+      "type": "multiple choice",
+      "choice_a": "$\\mathbb{Z}$",
+      "choice_b": "$\\mathbb{Z}[x]$",
+      "choice_c": "$\\mathbb{Z}[i]$",
+      "choice_d": "$\\mathbb{F}[x]$ dengan $\\mathbb{F}$ field",
+      "choice_e": "$\\mathbb{Q}$"
+    },
+    "answer": "B",
+    "bobot": 0.85
+  },
+  {
+    "no": 12,
+    "question": {
+      "text": "Ideal $M$ di ring komutatif $R$ dengan 1 adalah maksimal jika dan hanya jika...",
+      "type": "multiple choice",
+      "choice_a": "$M = R$",
+      "choice_b": "$R/M$ adalah field",
+      "choice_c": "$R/M$ adalah integral domain",
+      "choice_d": "$M$ adalah ideal prima",
+      "choice_e": "$M = \\{0\\}$"
+    },
+    "answer": "B",
+    "bobot": 0.8
+  },
+  {
+    "no": 13,
+    "question": {
+      "text": "Ideal $(x^2 + 1)$ merupakan ideal maksimal di ring...",
+      "type": "multiple choice",
+      "choice_a": "$\\mathbb{Z}[x]$",
+      "choice_b": "$\\mathbb{R}[x]$",
+      "choice_c": "$\\mathbb{Q}[x]$",
+      "choice_d": "$\\mathbb{C}[x]$",
+      "choice_e": "$\\mathbb{Z}[i]$"
+    },
+    "answer": "B",
+    "bobot": 0.85
+  },
+  {
+    "no": 14,
+    "question": {
+      "text": "Berdasarkan Teorema Chinese Remainder, $\\mathbb{Z}/6\\mathbb{Z}$ isomorfik dengan...",
+      "type": "multiple choice",
+      "choice_a": "$\\mathbb{Z}/2\\mathbb{Z} \\times \\mathbb{Z}/3\\mathbb{Z}$",
+      "choice_b": "$\\mathbb{Z}/6\\mathbb{Z} \\times \\mathbb{Z}/6\\mathbb{Z}$",
+      "choice_c": "$\\mathbb{Z}/4\\mathbb{Z} \\times \\mathbb{Z}$",
+      "choice_d": "$\\mathbb{Z}/2\\mathbb{Z} \\times \\mathbb{Z}/2\\mathbb{Z}$",
+      "choice_e": "$\\mathbb{Z}/3\\mathbb{Z}$"
+    },
+    "answer": "A",
+    "bobot": 0.75
+  },
+  {
+    "no": 15,
+    "question": {
+      "text": "Manakah contoh klasik ring yang merupakan UFD tetapi bukan Euclidean Domain?",
+      "type": "multiple choice",
+      "choice_a": "$\\mathbb{Z}$",
+      "choice_b": "$\\mathbb{F}[x]$",
+      "choice_c": "$\\mathbb{Z}[x]$",
+      "choice_d": "$\\mathbb{Z}[\\sqrt{-5}]$",
+      "choice_e": "$\\mathbb{Z}[i]$"
+    },
+    "answer": "C",
+    "bobot": 0.85
+  },
+  {
+    "no": 16,
+    "question": {
+      "text": "Setiap ideal di ring $\\mathbb{Z}$ adalah...",
+      "type": "multiple choice",
+      "choice_a": "Prima",
+      "choice_b": "Maksimal",
+      "choice_c": "Principal",
+      "choice_d": "Trivial",
+      "choice_e": "Bukan ideal"
+    },
+    "answer": "C",
+    "bobot": 0.7
+  },
+  {
+    "no": 17,
+    "question": {
+      "text": "Nilradikal dari ring komutatif $R$ sama dengan...",
+      "type": "multiple choice",
+      "choice_a": "$\\{0\\}$",
+      "choice_b": "Irisan semua ideal prima dari $R$",
+      "choice_c": "Irisan semua ideal maksimal dari $R$",
+      "choice_d": "Jacobson radical dari $R$",
+      "choice_e": "$R$ itu sendiri"
+    },
+    "answer": "B",
+    "bobot": 0.85
+  },
+  {
+    "no": 18,
+    "question": {
+      "text": "Jacobson radical dari ring komutatif $R$ sama dengan...",
+      "type": "multiple choice",
+      "choice_a": "Irisan semua ideal prima",
+      "choice_b": "Irisan semua ideal maksimal",
+      "choice_c": "Nilradikal",
+      "choice_d": "$\\{0\\}$",
+      "choice_e": "$R$"
+    },
+    "answer": "B",
+    "bobot": 0.85
+  },
+  {
+    "no": 19,
+    "question": {
+      "text": "Ring $\\mathbb{Z}[i]$ (Gaussian integers) dengan norma $N(a+bi) = a^2 + b^2$ adalah...",
+      "type": "multiple choice",
+      "choice_a": "Field",
+      "choice_b": "Euclidean Domain",
+      "choice_c": "Bukan integral domain",
+      "choice_d": "Hanya UFD tetapi bukan PID",
+      "choice_e": "Bukan UFD"
+    },
+    "answer": "B",
+    "bobot": 0.8
+  },
+  {
+    "no": 20,
+    "question": {
+      "text": "Untuk $\\mathbb{F}$ field, ring polinomial $\\mathbb{F}[x]$ adalah...",
+      "type": "multiple choice",
+      "choice_a": "Field",
+      "choice_b": "PID sekaligus UFD",
+      "choice_c": "Hanya UFD tetapi bukan PID",
+      "choice_d": "Bukan integral domain",
+      "choice_e": "Hanya Noetherian"
+    },
+    "answer": "B",
+    "bobot": 0.75
+  },
+  {
+    "no": 21,
+    "question": {
+      "text": "Berapa derajat ekstensi $[\\mathbb{Q}(\\sqrt{2}, \\sqrt{3}) : \\mathbb{Q}]$?",
+      "type": "multiple choice",
+      "choice_a": "2",
+      "choice_b": "4",
+      "choice_c": "6",
+      "choice_d": "8",
+      "choice_e": "3"
+    },
+    "answer": "B",
+    "bobot": 0.8
+  },
+  {
+    "no": 22,
+    "question": {
+      "text": "Grup Galois $\\text{Gal}(\\mathbb{Q}(\\sqrt{2}, \\sqrt{3})/\\mathbb{Q})$ isomorfik dengan...",
+      "type": "multiple choice",
+      "choice_a": "$\\mathbb{Z}_4$",
+      "choice_b": "$\\mathbb{Z}_2 \\times \\mathbb{Z}_2$",
+      "choice_c": "$\\mathbb{Z}_2$",
+      "choice_d": "$S_3$",
+      "choice_e": "$\\mathbb{Z}_6$"
+    },
+    "answer": "B",
+    "bobot": 0.85
+  },
+  {
+    "no": 23,
+    "question": {
+      "text": "Derajat splitting field dari $x^3 - 2$ atas $\\mathbb{Q}$ adalah...",
+      "type": "multiple choice",
+      "choice_a": "3",
+      "choice_b": "4",
+      "choice_c": "6",
+      "choice_d": "9",
+      "choice_e": "12"
+    },
+    "answer": "C",
+    "bobot": 0.85
+  },
+  {
+    "no": 24,
+    "question": {
+      "text": "Field berhingga $\\mathbb{F}_4$ isomorfik dengan...",
+      "type": "multiple choice",
+      "choice_a": "$\\mathbb{Z}/4\\mathbb{Z}$",
+      "choice_b": "$\\mathbb{F}_2[x]/(x^2 + x + 1)$",
+      "choice_c": "$\\mathbb{F}_2[x]/(x^2)$",
+      "choice_d": "$\\mathbb{Q}$",
+      "choice_e": "$\\mathbb{Z}/2\\mathbb{Z}$"
+    },
+    "answer": "B",
+    "bobot": 0.8
+  },
+  {
+    "no": 25,
+    "question": {
+      "text": "Field berhingga $\\mathbb{F}_{p^n}$ memiliki berapa elemen?",
+      "type": "multiple choice",
+      "choice_a": "$p$",
+      "choice_b": "$p^n$",
+      "choice_c": "$n^p$",
+      "choice_d": "$p \\cdot n$",
+      "choice_e": "$p + n$"
+    },
+    "answer": "B",
+    "bobot": 0.6
+  },
+  {
+    "no": 26,
+    "question": {
+      "text": "Grup Galois $\\text{Gal}(\\mathbb{F}_{p^n}/\\mathbb{F}_p)$ isomorfik dengan...",
+      "type": "multiple choice",
+      "choice_a": "$\\mathbb{Z}_n$ (siklik berorde $n$, dibangun oleh Frobenius $x \\mapsto x^p$)",
+      "choice_b": "$\\mathbb{Z}_p$",
+      "choice_c": "$S_n$",
+      "choice_d": "Trivial",
+      "choice_e": "$\\mathbb{Z}_{p^n}$"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 27,
+    "question": {
+      "text": "Dalam Teorema Fundamental Teori Galois, subgrup dari $\\text{Gal}(L/K)$ berkorespondensi satu-satu dengan...",
+      "type": "multiple choice",
+      "choice_a": "Semua subring dari $L$",
+      "choice_b": "Field antara $K$ dan $L$",
+      "choice_c": "Extension field dari $L$",
+      "choice_d": "Ideal dari $L$",
+      "choice_e": "Elemen-elemen dari $L$"
+    },
+    "answer": "B",
+    "bobot": 0.8
+  },
+  {
+    "no": 28,
+    "question": {
+      "text": "Ekstensi $L/K$ bersifat normal jika dan hanya jika...",
+      "type": "multiple choice",
+      "choice_a": "$L/K$ adalah Galois",
+      "choice_b": "Setiap polinomial tak tereduksi di $K[x]$ yang memiliki satu akar di $L$ terpecah (splits) seluruhnya di $L$",
+      "choice_c": "$L = K$",
+      "choice_d": "$L/K$ separabel",
+      "choice_e": "$[L:K] = 2$"
+    },
+    "answer": "B",
+    "bobot": 0.85
+  },
+  {
+    "no": 29,
+    "question": {
+      "text": "Setiap field dengan karakteristik 0 bersifat...",
+      "type": "multiple choice",
+      "choice_a": "Perfect",
+      "choice_b": "Tidak sempurna",
+      "choice_c": "Berhingga",
+      "choice_d": "Tertutup secara aljabar",
+      "choice_e": "Memiliki subfield $\\mathbb{F}_p$"
+    },
+    "answer": "A",
+    "bobot": 0.8
+  },
+  {
+    "no": 30,
+    "question": {
+      "text": "Setiap field berhingga bersifat...",
+      "type": "multiple choice",
+      "choice_a": "Perfect",
+      "choice_b": "Tidak sempurna",
+      "choice_c": "Berkarakteristik 0",
+      "choice_d": "Tertutup secara aljabar",
+      "choice_e": "Memiliki karakteristik tak hingga"
+    },
+    "answer": "A",
+    "bobot": 0.8
+  },
+  {
+    "no": 31,
+    "question": {
+      "text": "Modul atas field $\\mathbb{F}$ sama dengan...",
+      "type": "multiple choice",
+      "choice_a": "Grup",
+      "choice_b": "Ruang vektor atas $\\mathbb{F}$",
+      "choice_c": "Ring",
+      "choice_d": "Field",
+      "choice_e": "Ideal"
+    },
+    "answer": "B",
+    "bobot": 0.6
+  },
+  {
+    "no": 32,
+    "question": {
+      "text": "Submodul dari modul bebas berhingga (finitely generated free) atas PID adalah...",
+      "type": "multiple choice",
+      "choice_a": "Tidak bebas",
+      "choice_b": "Bebas",
+      "choice_c": "Selalu berhingga",
+      "choice_d": "Selalu torsi",
+      "choice_e": "Sama dengan modul induknya"
+    },
+    "answer": "B",
+    "bobot": 0.85
+  },
+  {
+    "no": 33,
+    "question": {
+      "text": "Barisan eksak pendek $0 \\to A \\to B \\to C \\to 0$ dikatakan split jika dan hanya jika...",
+      "type": "multiple choice",
+      "choice_a": "$B \\cong A \\oplus C$",
+      "choice_b": "$A = C$",
+      "choice_c": "$\\text{Hom}(A, C) = 0$",
+      "choice_d": "$B = A$",
+      "choice_e": "Tidak pernah terjadi"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 34,
+    "question": {
+      "text": "Produk tensor $\\mathbb{Z}/m\\mathbb{Z} \\otimes_{\\mathbb{Z}} \\mathbb{Z}/n\\mathbb{Z}$ isomorfik dengan...",
+      "type": "multiple choice",
+      "choice_a": "$\\mathbb{Z}/(mn)\\mathbb{Z}$",
+      "choice_b": "$\\mathbb{Z}/\\gcd(m,n)\\mathbb{Z}$",
+      "choice_c": "$\\mathbb{Z}/\\text{lcm}(m,n)\\mathbb{Z}$",
+      "choice_d": "$0$",
+      "choice_e": "$\\mathbb{Z}$"
+    },
+    "answer": "B",
+    "bobot": 0.9
+  },
+  {
+    "no": 35,
+    "question": {
+      "text": "Modul proyektif berhingga (finitely generated) atas PID adalah...",
+      "type": "multiple choice",
+      "choice_a": "Bebas",
+      "choice_b": "Modul torsi",
+      "choice_c": "Tidak pernah bebas",
+      "choice_d": "Selalu berhingga sebagai himpunan",
+      "choice_e": "Selalu injektif"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 36,
+    "question": {
+      "text": "Untuk grup berorde 30, pernyataan yang selalu benar adalah...",
+      "type": "multiple choice",
+      "choice_a": "Grup tersebut sederhana",
+      "choice_b": "Grup tersebut memiliki subgrup normal nontrivial",
+      "choice_c": "Grup tersebut non-abelian",
+      "choice_d": "Grup tersebut siklik",
+      "choice_e": "Grup tersebut abelian"
+    },
+    "answer": "B",
+    "bobot": 0.9
+  },
+  {
+    "no": 37,
+    "question": {
+      "text": "Grup berorde 30 selalu bersifat...",
+      "type": "multiple choice",
+      "choice_a": "Sederhana",
+      "choice_b": "Siklik",
+      "choice_c": "Solvable",
+      "choice_d": "Non-abelian",
+      "choice_e": "Isomorfik dengan $D_{15}$"
+    },
+    "answer": "C",
+    "bobot": 0.9
+  },
+  {
+    "no": 38,
+    "question": {
+      "text": "Grup simetris $S_n$ dibangun oleh...",
+      "type": "multiple choice",
+      "choice_a": "Satu n-cycle",
+      "choice_b": "Transposisi-transposisi",
+      "choice_c": "Hanya 3-cycle",
+      "choice_d": "Semua elemen secara bebas",
+      "choice_e": "Hanya identitas"
+    },
+    "answer": "B",
+    "bobot": 0.75
+  },
+  {
+    "no": 39,
+    "question": {
+      "text": "Grup alternating $A_n$ bersifat sederhana untuk...",
+      "type": "multiple choice",
+      "choice_a": "$n = 3$",
+      "choice_b": "$n \\geq 5$",
+      "choice_c": "$n \\geq 4$",
+      "choice_d": "Semua $n$",
+      "choice_e": "Tidak pernah"
+    },
+    "answer": "B",
+    "bobot": 0.8
+  },
+  {
+    "no": 40,
+    "question": {
+      "text": "Subgrup komutator $[S_n, S_n]$ sama dengan...",
+      "type": "multiple choice",
+      "choice_a": "$\\{e\\}$",
+      "choice_b": "$S_n$",
+      "choice_c": "$A_n$",
+      "choice_d": "$Z(S_n)$",
+      "choice_e": "$V_4$"
+    },
+    "answer": "C",
+    "bobot": 0.8
+  },
+  {
+    "no": 41,
+    "question": {
+      "text": "Grup $(\\mathbb{Z}/2\\mathbb{Z})^2$ bersifat...",
+      "type": "multiple choice",
+      "choice_a": "Siklik berorde 4",
+      "choice_b": "Tidak siklik karena setiap elemen non-identitas berorde 2",
+      "choice_c": "Siklik karena abelian",
+      "choice_d": "Bukan grup",
+      "choice_e": "Siklik hanya jika didefinisikan atas field"
+    },
+    "answer": "B",
+    "bobot": 0.8
+  },
+  {
+    "no": 42,
+    "question": {
+      "text": "Setiap grup berorde $p^2$ ($p$ prima) adalah...",
+      "type": "multiple choice",
+      "choice_a": "Siklik",
+      "choice_b": "Abelian",
+      "choice_c": "Non-abelian",
+      "choice_d": "Sederhana",
+      "choice_e": "Memiliki tepat 2 elemen"
+    },
+    "answer": "B",
+    "bobot": 0.8
+  },
+  {
+    "no": 43,
+    "question": {
+      "text": "Untuk p-group berhingga $G$ (grup berorde $p^n$), center $Z(G)$ bersifat...",
+      "type": "multiple choice",
+      "choice_a": "Trivial",
+      "choice_b": "Nontrivial",
+      "choice_c": "Selalu sama dengan $G$",
+      "choice_d": "Tidak dapat ditentukan",
+      "choice_e": "Selalu berorde $p$"
+    },
+    "answer": "B",
+    "bobot": 0.8
+  },
+  {
+    "no": 44,
+    "question": {
+      "text": "Teorema Burnside $p^a q^b$ menyatakan bahwa...",
+      "type": "multiple choice",
+      "choice_a": "Grup berorde $p^a q^b$ adalah solvable",
+      "choice_b": "Grup berorde $p^a q^b$ adalah abelian",
+      "choice_c": "Grup berorde $p^a q^b$ adalah sederhana",
+      "choice_d": "Grup berorde $p^a q^b$ adalah siklik",
+      "choice_e": "Tidak ada grup berorde $p^a q^b$"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 45,
+    "question": {
+      "text": "Teorema Feit-Thompson (odd order theorem) menyatakan bahwa...",
+      "type": "multiple choice",
+      "choice_a": "Setiap grup berorde ganjil adalah solvable",
+      "choice_b": "Setiap grup berorde ganjil adalah abelian",
+      "choice_c": "Setiap grup berorde ganjil adalah siklik",
+      "choice_d": "Tidak ada grup berorde ganjil",
+      "choice_e": "Setiap grup berorde ganjil adalah sederhana"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 46,
+    "question": {
+      "text": "Teorema kecil Wedderburn menyatakan bahwa...",
+      "type": "multiple choice",
+      "choice_a": "Setiap division ring berhingga adalah field",
+      "choice_b": "Setiap ring adalah field",
+      "choice_c": "Setiap field adalah division ring berhingga",
+      "choice_d": "Setiap grup berhingga adalah abelian",
+      "choice_e": "Tidak ada field berhingga"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 47,
+    "question": {
+      "text": "Menurut Teorema Frobenius, jika $n$ membagi $|G|$, maka jumlah solusi dari $x^n = e$ di $G$ adalah...",
+      "type": "multiple choice",
+      "choice_a": "Tidak habis dibagi $n$",
+      "choice_b": "Habis dibagi $n$",
+      "choice_c": "Selalu sama dengan $n$",
+      "choice_d": "Selalu sama dengan $|G|$",
+      "choice_e": "Selalu sama dengan 1"
+    },
+    "answer": "B",
+    "bobot": 0.9
+  },
+  {
+    "no": 48,
+    "question": {
+      "text": "Grup Galois dari polinomial $x^4 - 2$ atas $\\mathbb{Q}$ adalah...",
+      "type": "multiple choice",
+      "choice_a": "$\\mathbb{Z}_4$",
+      "choice_b": "$D_4$ (grup dihedral berorde 8)",
+      "choice_c": "$V_4$",
+      "choice_d": "$S_4$",
+      "choice_e": "$\\mathbb{Z}_2 \\times \\mathbb{Z}_2$"
+    },
+    "answer": "B",
+    "bobot": 0.9
+  },
+  {
+    "no": 49,
+    "question": {
+      "text": "Grup $\\text{Gal}(\\mathbb{Q}(\\zeta_n)/\\mathbb{Q})$ dengan $\\zeta_n$ akar primitif ke-$n$ dari kesatuan isomorfik dengan...",
+      "type": "multiple choice",
+      "choice_a": "$\\mathbb{Z}/n\\mathbb{Z}$",
+      "choice_b": "$(\\mathbb{Z}/n\\mathbb{Z})^{\\times}$",
+      "choice_c": "$S_n$",
+      "choice_d": "$\\mathbb{Z}_n \\times \\mathbb{Z}_n$",
+      "choice_e": "Trivial"
+    },
+    "answer": "B",
+    "bobot": 0.85
+  },
+  {
+    "no": 50,
+    "question": {
+      "text": "Teorema Kronecker-Weber menyatakan bahwa...",
+      "type": "multiple choice",
+      "choice_a": "Setiap ekstensi abelian dari $\\mathbb{Q}$ termuat dalam suatu ekstensi cyclotomic",
+      "choice_b": "Setiap ekstensi dari $\\mathbb{Q}$ adalah cyclotomic",
+      "choice_c": "Setiap field berhingga adalah cyclotomic",
+      "choice_d": "Setiap grup adalah abelian",
+      "choice_e": "Setiap grup adalah solvable"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 51,
+    "question": {
+      "text": "Primitive element theorem menyatakan bahwa...",
+      "type": "multiple choice",
+      "choice_a": "Setiap ekstensi berhingga yang separabel memiliki primitive element",
+      "choice_b": "Setiap ekstensi memiliki primitive element",
+      "choice_c": "Tidak ada ekstensi yang memiliki primitive element",
+      "choice_d": "Hanya ekstensi siklik yang memiliki primitive element",
+      "choice_e": "Hanya field berhingga yang memiliki primitive element"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 52,
+    "question": {
+      "text": "Teorema Artin menyatakan bahwa jika $G$ adalah grup berhingga dari automorfisma field $L$, maka...",
+      "type": "multiple choice",
+      "choice_a": "$L/L^G$ adalah ekstensi Galois dengan grup Galois $G$",
+      "choice_b": "$L/L^G$ bukan ekstensi",
+      "choice_c": "$G$ selalu trivial",
+      "choice_d": "$L = L^G$",
+      "choice_e": "$G$ tidak berhingga"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 53,
+    "question": {
+      "text": "Dalam korespondensi Galois, subgrup normal dari $\\text{Gal}(L/K)$ berkorespondensi dengan...",
+      "type": "multiple choice",
+      "choice_a": "Ekstensi normal (Galois) dari $K$ yang termuat dalam $L$",
+      "choice_b": "Ekstensi trivial",
+      "choice_c": "Ekstensi tak berhingga",
+      "choice_d": "Ekstensi inseparable",
+      "choice_e": "Tidak ada objek yang berkorespondensi"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 54,
+    "question": {
+      "text": "Persamaan polinomial dapat diselesaikan dengan radikal jika dan hanya jika...",
+      "type": "multiple choice",
+      "choice_a": "Grup Galoisnya solvable",
+      "choice_b": "Grup Galoisnya abelian",
+      "choice_c": "Grup Galoisnya siklik",
+      "choice_d": "Grup Galoisnya sederhana",
+      "choice_e": "Derajatnya $\\leq 4$"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 55,
+    "question": {
+      "text": "Teorema Abel-Ruffini menyatakan bahwa persamaan kuintik umum...",
+      "type": "multiple choice",
+      "choice_a": "Selalu dapat diselesaikan dengan radikal",
+      "choice_b": "Tidak selalu dapat diselesaikan dengan radikal",
+      "choice_c": "Selalu solvable",
+      "choice_d": "Selalu memiliki akar rasional",
+      "choice_e": "Tidak memiliki akar kompleks"
+    },
+    "answer": "B",
+    "bobot": 0.8
+  },
+  {
+    "no": 56,
+    "question": {
+      "text": "Segi-17 beraturan dapat dikonstruksi dengan jangka dan penggaris karena...",
+      "type": "multiple choice",
+      "choice_a": "$\\varphi(17) = 16$ adalah pangkat dari 2",
+      "choice_b": "17 adalah bilangan prima",
+      "choice_c": "17 bilangan ganjil",
+      "choice_d": "$17 = 4 \\cdot 4 + 1$",
+      "choice_e": "Tidak dapat dikonstruksi"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 57,
+    "question": {
+      "text": "Grup Galois dari polinomial $x^5 - 2$ atas $\\mathbb{Q}$ isomorfik dengan...",
+      "type": "multiple choice",
+      "choice_a": "$\\mathbb{Z}_5$",
+      "choice_b": "Grup Frobenius berorde 20 ($\\mathbb{Z}_5 \\rtimes \\mathbb{Z}_4$)",
+      "choice_c": "$S_5$",
+      "choice_d": "$D_5$",
+      "choice_e": "$A_5$"
+    },
+    "answer": "B",
+    "bobot": 0.9
+  },
+  {
+    "no": 58,
+    "question": {
+      "text": "Norm $N_{L/K}(\\alpha)$ untuk ekstensi Galois $L/K$ didefinisikan sebagai...",
+      "type": "multiple choice",
+      "choice_a": "$\\alpha$",
+      "choice_b": "Produk dari semua konjugat Galois dari $\\alpha$",
+      "choice_c": "$\\alpha^n$",
+      "choice_d": "Trace dari $\\alpha$",
+      "choice_e": "$1$"
+    },
+    "answer": "B",
+    "bobot": 0.85
+  },
+  {
+    "no": 59,
+    "question": {
+      "text": "Hilbert 90: jika $L/K$ adalah ekstensi Galois siklik dengan generator $\\sigma$, dan $\\alpha \\in L$ memenuhi $N(\\alpha) = 1$, maka...",
+      "type": "multiple choice",
+      "choice_a": "Terdapat $\\beta \\in L$ sehingga $\\alpha = \\sigma(\\beta)/\\beta$",
+      "choice_b": "$\\alpha = 0$",
+      "choice_c": "$\\alpha = 1$",
+      "choice_d": "$\\alpha = \\beta^2$",
+      "choice_e": "Tidak ada solusi"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 60,
+    "question": {
+      "text": "Teori Kummer berkaitan erat dengan...",
+      "type": "multiple choice",
+      "choice_a": "Ekstensi abelian yang dibangun dengan radikal",
+      "choice_b": "Ekstensi non-abelian",
+      "choice_c": "Field berhingga",
+      "choice_d": "Ekstensi inseparable",
+      "choice_e": "Semua ekstensi field"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 61,
+    "question": {
+      "text": "Ring $R$ disebut Noetherian jika dan hanya jika...",
+      "type": "multiple choice",
+      "choice_a": "Setiap rantai naik idealnya stabil",
+      "choice_b": "Setiap rantai turun idealnya stabil",
+      "choice_c": "Setiap idealnya maksimal",
+      "choice_d": "Setiap idealnya prima",
+      "choice_e": "$R$ berhingga sebagai himpunan"
+    },
+    "answer": "A",
+    "bobot": 0.8
+  },
+  {
+    "no": 62,
+    "question": {
+      "text": "Hilbert basis theorem menyatakan bahwa jika $R$ Noetherian, maka...",
+      "type": "multiple choice",
+      "choice_a": "$R[x]$ juga Noetherian",
+      "choice_b": "$R[x]$ tidak Noetherian",
+      "choice_c": "$R[x]$ adalah field",
+      "choice_d": "$R[x]$ berhingga",
+      "choice_e": "$R[x]$ Artinian"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 63,
+    "question": {
+      "text": "Ring $R$ disebut Artinian jika...",
+      "type": "multiple choice",
+      "choice_a": "Setiap rantai turun idealnya stabil",
+      "choice_b": "Setiap rantai naik idealnya stabil",
+      "choice_c": "Selalu Noetherian",
+      "choice_d": "Selalu field",
+      "choice_e": "Selalu berhingga"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 64,
+    "question": {
+      "text": "Lemma Nakayama: jika $M$ adalah $R$-modul yang dibangun secara berhingga (finitely generated), $J$ adalah Jacobson radical dari $R$, dan $JM = M$, maka...",
+      "type": "multiple choice",
+      "choice_a": "$M = 0$",
+      "choice_b": "$M = R$",
+      "choice_c": "$M$ bebas",
+      "choice_d": "$M$ proyektif",
+      "choice_e": "$M = J$"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 65,
+    "question": {
+      "text": "Local ring adalah ring yang memiliki...",
+      "type": "multiple choice",
+      "choice_a": "Tepat satu ideal maksimal",
+      "choice_b": "Tepat satu ideal prima",
+      "choice_c": "Tidak ada ideal maksimal",
+      "choice_d": "Banyak ideal maksimal",
+      "choice_e": "Hanya ideal nol"
+    },
+    "answer": "A",
+    "bobot": 0.8
+  },
+  {
+    "no": 66,
+    "question": {
+      "text": "Dedekind domain didefinisikan sebagai...",
+      "type": "multiple choice",
+      "choice_a": "Integral domain Noetherian, integrally closed, dan berdimensi Krull $\\leq 1$",
+      "choice_b": "Field apapun",
+      "choice_c": "Hanya PID",
+      "choice_d": "Ring Artinian",
+      "choice_e": "Ring lokal"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 67,
+    "question": {
+      "text": "Dalam sebuah Dedekind domain, setiap ideal tak nol...",
+      "type": "multiple choice",
+      "choice_a": "Memiliki faktorisasi unik menjadi ideal-ideal prima",
+      "choice_b": "Adalah ideal prima",
+      "choice_c": "Adalah ideal maksimal",
+      "choice_d": "Adalah ideal principal",
+      "choice_e": "Adalah ideal nol"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 68,
+    "question": {
+      "text": "Class group dari sebuah Dedekind domain didefinisikan sebagai...",
+      "type": "multiple choice",
+      "choice_a": "Grup dari ideal fraksional modulo ideal-ideal principal",
+      "choice_b": "Grup dari semua ideal",
+      "choice_c": "Grup dari unit-unit",
+      "choice_d": "Field",
+      "choice_e": "Selalu trivial"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 69,
+    "question": {
+      "text": "Ring $\\mathbb{Z}[\\sqrt{-5}]$ bukan UFD karena...",
+      "type": "multiple choice",
+      "choice_a": "$6 = 2 \\cdot 3 = (1 + \\sqrt{-5})(1 - \\sqrt{-5})$ dengan faktor-faktor irreducible yang tidak saling berasosiasi",
+      "choice_b": "Bukan integral domain",
+      "choice_c": "Tidak Noetherian",
+      "choice_d": "Memiliki elemen nol",
+      "choice_e": "Merupakan field"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 70,
+    "question": {
+      "text": "Class number dari ring $\\mathbb{Z}[\\sqrt{-5}]$ adalah...",
+      "type": "multiple choice",
+      "choice_a": "1",
+      "choice_b": "2",
+      "choice_c": "3",
+      "choice_d": "4",
+      "choice_e": "Tak hingga"
+    },
+    "answer": "B",
+    "bobot": 0.9
+  },
+  {
+    "no": 71,
+    "question": {
+      "text": "Untuk $R$-modul $M$, berlaku $M \\otimes_R R \\cong$...",
+      "type": "multiple choice",
+      "choice_a": "$M$",
+      "choice_b": "$R$",
+      "choice_c": "$0$",
+      "choice_d": "$M \\otimes M$",
+      "choice_e": "$\\text{Hom}(M, R)$"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 72,
+    "question": {
+      "text": "Sebuah $R$-modul $M$ disebut flat jika...",
+      "type": "multiple choice",
+      "choice_a": "Fungtor $M \\otimes_R -$ bersifat eksak",
+      "choice_b": "Fungtor $M \\otimes_R -$ tidak pernah eksak",
+      "choice_c": "Fungtor hanya eksak kanan",
+      "choice_d": "Fungtor hanya eksak kiri",
+      "choice_e": "Fungtor tidak terdefinisi"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 73,
+    "question": {
+      "text": "Snake lemma menghasilkan barisan eksak...",
+      "type": "multiple choice",
+      "choice_a": "$0 \\to \\ker f \\to \\ker g \\to \\ker h \\to \\text{coker}\\, f \\to \\text{coker}\\, g \\to \\text{coker}\\, h \\to 0$",
+      "choice_b": "Hanya berupa diagram komutatif",
+      "choice_c": "Barisan eksak trivial",
+      "choice_d": "Isomorfisme antara objek-objek",
+      "choice_e": "Tidak menghasilkan apapun"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 74,
+    "question": {
+      "text": "Five lemma menyatakan bahwa jika empat dari lima peta dalam diagram komutatif dengan barisan eksak adalah isomorfisme, maka...",
+      "type": "multiple choice",
+      "choice_a": "Peta kelima juga merupakan isomorfisme",
+      "choice_b": "Tidak dapat ditentukan",
+      "choice_c": "Semua peta menjadi nol",
+      "choice_d": "Peta kelima hanya surjektif",
+      "choice_e": "Peta kelima hanya injektif"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 75,
+    "question": {
+      "text": "Sebuah modul proyektif $P$ atas ring $R$ ekuivalen dengan kondisi...",
+      "type": "multiple choice",
+      "choice_a": "$P$ adalah direct summand dari modul bebas",
+      "choice_b": "$P$ hanya bisa berupa modul bebas",
+      "choice_c": "$P$ selalu berupa modul torsi",
+      "choice_d": "$P$ selalu injektif",
+      "choice_e": "$P$ selalu sederhana"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 76,
+    "question": {
+      "text": "Kriteria Baer memberikan karakterisasi untuk...",
+      "type": "multiple choice",
+      "choice_a": "Modul injektif",
+      "choice_b": "Modul proyektif",
+      "choice_c": "Modul flat",
+      "choice_d": "Modul bebas",
+      "choice_e": "Modul sederhana"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 77,
+    "question": {
+      "text": "Grup $\\mathbb{Q}/\\mathbb{Z}$ atas $\\mathbb{Z}$ bersifat...",
+      "type": "multiple choice",
+      "choice_a": "Divisible dan injektif",
+      "choice_b": "Proyektif",
+      "choice_c": "Berhingga",
+      "choice_d": "Field",
+      "choice_e": "Ring komutatif Noetherian"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 78,
+    "question": {
+      "text": "Lemma Yoneda menyatakan bahwa $\\text{Nat}(\\text{Hom}(A, -), F)$ isomorfik dengan...",
+      "type": "multiple choice",
+      "choice_a": "$F(A)$",
+      "choice_b": "$\\text{Hom}(A, A)$",
+      "choice_c": "$0$",
+      "choice_d": "$\\text{Nat}(F, F)$",
+      "choice_e": "$\\text{Hom}(F(A), F(A))$"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 79,
+    "question": {
+      "text": "Pasangan adjoint $F \\dashv G$ berarti...",
+      "type": "multiple choice",
+      "choice_a": "Terdapat isomorfisma natural $\\text{Hom}(F(A), B) \\cong \\text{Hom}(A, G(B))$",
+      "choice_b": "$F = G$",
+      "choice_c": "$F$ dan $G$ isomorfik",
+      "choice_d": "Tidak ada hubungan di antara keduanya",
+      "choice_e": "$\\text{Hom}(F, G) \\cong 0$"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 80,
+    "question": {
+      "text": "Kategori abelian adalah kategori yang memiliki...",
+      "type": "multiple choice",
+      "choice_a": "Kernel, cokernel, image, coimage, dan sifat-sifat tertentu yang terpenuhi",
+      "choice_b": "Hanya objek tanpa morphism",
+      "choice_c": "Hanya morphism tanpa objek",
+      "choice_d": "Tidak memiliki produk",
+      "choice_e": "Selalu berupa himpunan"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 81,
+    "question": {
+      "text": "Berapa banyak grup (hingga isomorfisma) berorde 8?",
+      "type": "multiple choice",
+      "choice_a": "2",
+      "choice_b": "3",
+      "choice_c": "4",
+      "choice_d": "5",
+      "choice_e": "6"
+    },
+    "answer": "D",
+    "bobot": 0.85
+  },
+  {
+    "no": 82,
+    "question": {
+      "text": "Misalkan $p < q$ bilangan prima dan $p \\nmid (q-1)$. Setiap grup berorde $pq$ adalah...",
+      "type": "multiple choice",
+      "choice_a": "Siklik",
+      "choice_b": "Dihedral",
+      "choice_c": "Non-abelian",
+      "choice_d": "Sederhana",
+      "choice_e": "Tidak ada"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 83,
+    "question": {
+      "text": "Presentasi grup dihedral $D_n = \\langle r, s \\mid r^n = s^2 = 1,\\; srs = r^{-1} \\rangle$ adalah...",
+      "type": "multiple choice",
+      "choice_a": "Benar",
+      "choice_b": "Salah",
+      "choice_c": "Tidak lengkap",
+      "choice_d": "Hanya berlaku untuk $n=2$",
+      "choice_e": "Hanya berlaku jika $D_n$ abelian"
+    },
+    "answer": "A",
+    "bobot": 0.75
+  },
+  {
+    "no": 84,
+    "question": {
+      "text": "Center dari grup dihedral $D_n$ untuk $n$ ganjil adalah...",
+      "type": "multiple choice",
+      "choice_a": "Trivial",
+      "choice_b": "$\\mathbb{Z}_2$",
+      "choice_c": "$\\mathbb{Z}_n$",
+      "choice_d": "$D_n$",
+      "choice_e": "$\\{r^{n/2}\\}$"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 85,
+    "question": {
+      "text": "Berapa orde dari $\\text{Aut}(D_4)$?",
+      "type": "multiple choice",
+      "choice_a": "4",
+      "choice_b": "8",
+      "choice_c": "16",
+      "choice_d": "24",
+      "choice_e": "6"
+    },
+    "answer": "B",
+    "bobot": 0.9
+  },
+  {
+    "no": 86,
+    "question": {
+      "text": "Grup berorde $2p$ dengan $p$ prima ganjil adalah...",
+      "type": "multiple choice",
+      "choice_a": "Siklik atau dihedral",
+      "choice_b": "Selalu siklik",
+      "choice_c": "Selalu dihedral",
+      "choice_d": "Sederhana",
+      "choice_e": "Tidak ada grup seperti itu"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 87,
+    "question": {
+      "text": "Teorema Cayley menyatakan bahwa setiap grup $G$ dapat diembeddingkan ke dalam...",
+      "type": "multiple choice",
+      "choice_a": "$S_n$ dengan $n = |G|$",
+      "choice_b": "$A_n$",
+      "choice_c": "$\\mathbb{Z}_n$",
+      "choice_d": "$D_n$",
+      "choice_e": "Tidak ada grup"
+    },
+    "answer": "A",
+    "bobot": 0.7
+  },
+  {
+    "no": 88,
+    "question": {
+      "text": "Orbit-stabilizer theorem menyatakan bahwa $|\\text{Orb}(x)|$ sama dengan...",
+      "type": "multiple choice",
+      "choice_a": "$|G| / |\\text{Stab}(x)|$",
+      "choice_b": "$|\\text{Stab}(x)|$",
+      "choice_c": "$|G|$",
+      "choice_d": "$|G| \\cdot |\\text{Stab}(x)|$",
+      "choice_e": "1"
+    },
+    "answer": "A",
+    "bobot": 0.75
+  },
+  {
+    "no": 89,
+    "question": {
+      "text": "Sylow 2-subgrup dari $S_4$ isomorfik dengan...",
+      "type": "multiple choice",
+      "choice_a": "$V_4$",
+      "choice_b": "$D_4$ (berorde 8)",
+      "choice_c": "$\\mathbb{Z}_4$",
+      "choice_d": "$\\mathbb{Z}_2$",
+      "choice_e": "$A_4$"
+    },
+    "answer": "B",
+    "bobot": 0.85
+  },
+  {
+    "no": 90,
+    "question": {
+      "text": "Apakah $A_4$ memiliki subgrup berorde 6?",
+      "type": "multiple choice",
+      "choice_a": "Ya, dan subgrupnya siklik",
+      "choice_b": "Tidak, meskipun 6 membagi 12 (konvers teorema Lagrange tidak berlaku)",
+      "choice_c": "Ya, dan subgrupnya normal",
+      "choice_d": "Ya, karena $A_4$ abelian",
+      "choice_e": "Tidak, karena $A_4$ bukan grup"
+    },
+    "answer": "B",
+    "bobot": 0.9
+  },
+  {
+    "no": 91,
+    "question": {
+      "text": "Struktur teorema untuk modul yang dibangun secara berhingga atas PID menyatakan bahwa setiap modul tersebut isomorfik dengan...",
+      "type": "multiple choice",
+      "choice_a": "$R^r \\oplus R/(d_1) \\oplus \\cdots \\oplus R/(d_k)$ dengan $d_1 \\mid d_2 \\mid \\cdots \\mid d_k$",
+      "choice_b": "Selalu modul bebas",
+      "choice_c": "Selalu modul berhingga",
+      "choice_d": "Selalu modul torsi",
+      "choice_e": "Tidak memiliki struktur khusus"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 92,
+    "question": {
+      "text": "Smith normal form berkaitan dengan klasifikasi...",
+      "type": "multiple choice",
+      "choice_a": "Matriks atas PID hingga ekivalen",
+      "choice_b": "Field berhingga",
+      "choice_c": "Grup sederhana",
+      "choice_d": "Ekstensi Galois",
+      "choice_e": "Bilangan prima"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 93,
+    "question": {
+      "text": "Modul atas ring $\\mathbb{Z}$ ekuivalen dengan...",
+      "type": "multiple choice",
+      "choice_a": "Grup abelian",
+      "choice_b": "Field",
+      "choice_c": "Grup non-abelian",
+      "choice_d": "Ring komutatif",
+      "choice_e": "Ideal"
+    },
+    "answer": "A",
+    "bobot": 0.7
+  },
+  {
+    "no": 94,
+    "question": {
+      "text": "Sebagai grup abelian, $\\mathbb{Q}/\\mathbb{Z}$ bersifat...",
+      "type": "multiple choice",
+      "choice_a": "Divisible",
+      "choice_b": "Berhingga",
+      "choice_c": "Bebas",
+      "choice_d": "Proyektif",
+      "choice_e": "Sederhana"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 95,
+    "question": {
+      "text": "Injective hull dari $\\mathbb{Z}$ sebagai $\\mathbb{Z}$-modul adalah...",
+      "type": "multiple choice",
+      "choice_a": "$\\mathbb{Q}$",
+      "choice_b": "$\\mathbb{Z}$",
+      "choice_c": "$\\mathbb{Q}/\\mathbb{Z}$",
+      "choice_d": "$\\mathbb{R}$",
+      "choice_e": "$\\mathbb{Z}/n\\mathbb{Z}$"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 96,
+    "question": {
+      "text": "Kriteria Baer menyatakan bahwa $R$-modul $I$ injektif jika dan hanya jika...",
+      "type": "multiple choice",
+      "choice_a": "Setiap homomorfisma dari ideal $J \\to I$ dapat diperluas ke homomorfisma $R \\to I$",
+      "choice_b": "Setiap ideal bersifat proyektif",
+      "choice_c": "$I$ adalah modul bebas",
+      "choice_d": "$I$ berhingga",
+      "choice_e": "$I = 0$"
+    },
+    "answer": "A",
+    "bobot": 0.9
+  },
+  {
+    "no": 97,
+    "question": {
+      "text": "Grup Galois $\\text{Gal}(\\mathbb{F}_{p^n}/\\mathbb{F}_p)$ adalah...",
+      "type": "multiple choice",
+      "choice_a": "Siklik berorde $n$, dibangun oleh Frobenius $x \\mapsto x^p$",
+      "choice_b": "$S_n$",
+      "choice_c": "Trivial",
+      "choice_d": "$\\mathbb{Z}_p$",
+      "choice_e": "$A_n$"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 98,
+    "question": {
+      "text": "Algebraic closure dari sebuah field $K$ bersifat...",
+      "type": "multiple choice",
+      "choice_a": "Unik hingga isomorfisma",
+      "choice_b": "Tidak pernah ada",
+      "choice_c": "Selalu berhingga",
+      "choice_d": "Selalu sama dengan $K$",
+      "choice_e": "Hanya ada untuk $K = \\mathbb{R}$"
+    },
+    "answer": "A",
+    "bobot": 0.85
+  },
+  {
+    "no": 99,
+    "question": {
+      "text": "Transcendence degree dari $\\mathbb{C}(x, y)$ atas $\\mathbb{C}$ adalah...",
+      "type": "multiple choice",
+      "choice_a": "1",
+      "choice_b": "2",
+      "choice_c": "0",
+      "choice_d": "Tak hingga",
+      "choice_e": "3"
+    },
+    "answer": "B",
+    "bobot": 0.85
+  },
+  {
+    "no": 100,
+    "question": {
+      "text": "Teorema Lüroth menyatakan bahwa setiap subfield dari $K(x)$ yang memuat $K$ dan tidak sama dengan $K$ adalah...",
+      "type": "multiple choice",
+      "choice_a": "Sama dengan $K(x)$",
+      "choice_b": "Isomorfik dengan $K(y)$ untuk suatu $y$",
+      "choice_c": "Field berhingga",
+      "choice_d": "Tidak ada subfield seperti itu",
+      "choice_e": "Sama dengan $K$"
+    },
+    "answer": "B",
+    "bobot": 0.95
+  }
+]
+}
